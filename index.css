@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.body{
+    background-color: #95ac7f;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.form-container {
+    margin-top: 50px;
+    flex: 1;
+}
+.footer {
+    bottom: 0;
+    width: 100%;
+}

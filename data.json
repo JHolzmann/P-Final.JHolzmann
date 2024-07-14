@@ -1,0 +1,18 @@
+{
+    "precios": {
+        "dos": 15000,
+        "tres": 18000,
+        "week": 20000
+    },
+    "profesores": {
+        "8 AM": "Profesor Pablo Diaz",
+        "10 AM": "Profesor Adrian Lopez",
+        "4 PM": "Profesora Sofia Garcia"
+    },
+    "fechasDisponibles": [
+        "1 de julio",
+        "8 de julio",
+        "15 de julio",
+        "22 de julio"
+    ]
+}
